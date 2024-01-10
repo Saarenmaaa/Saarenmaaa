@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student In Information and Communications Technology
 ----------------------------------------------------
 
-I am a 25-year-old tech enthusiast currently pursuing a Bachelor's Degree in Information and Communications Technology, specializing in Software Engineering and having completed the majority of my coursework.
+I am a 25-year-old tech enthusiast currently pursuing a Bachelor's Degree in Information and Communications Technology, specializing in Software Engineering.
 
 * 🌍  I'm based in Tampere, Finland
 * ✉️  You can contact me at [Olli.Saarenmaa@Student.Lab.fi](mailto:Olli.Saarenmaa@Student.Lab.fi)

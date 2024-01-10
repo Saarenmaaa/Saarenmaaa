@@ -10,6 +10,7 @@ I am a 25-year-old tech enthusiast currently pursuing a Bachelor's Degree in Inf
 * ✉️  You can contact me at [Olli.Saarenmaa@Student.Lab.fi](mailto:Olli.Saarenmaa@Student.Lab.fi)
 * 🧠  I'm learning Software Development and Machine Learning
 * ⚡  Vocational Degree in Electrical and Automation Technology
+* 🌍  Languages: English, Finnish, Swedish
 
 ### Skills
 

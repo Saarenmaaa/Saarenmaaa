@@ -1,7 +1,7 @@
 Olli Saarenmaa
 ======================================================================================================================================
 
-Software Test Engineer, ICT Engineering Student Technology
+Software Test Engineer, ICT Engineering Student
 ----------------------------------------------------
 
 * 🌍  I'm based in Tampere, Finland

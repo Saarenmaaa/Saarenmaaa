@@ -1,4 +1,4 @@
-# Olli Saarenmaa
+Olli Saarenmaa
 ====================================================
 
 Software Test Engineer, ICT Engineering Student

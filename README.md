@@ -1,7 +1,7 @@
 Olli Saarenmaa
 ====================================================
 
-Software Test Engineer, ICT Engineering Student
+Software Test Engineer, ICT Engineering Student at LAB University
 ----------------------------------------------------
 
 * Tampere, Finland

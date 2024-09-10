@@ -1,7 +1,7 @@
 Olli Saarenmaa
 ====================================================
 
-Software Test Engineer HMD Global, ICT Engineering Student at LAB University
+Software Test Engineer, ICT Engineering Student
 ----------------------------------------------------
 
 * Tampere, Finland

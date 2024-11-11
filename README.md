@@ -6,7 +6,7 @@ Software Test Engineer, ICT Engineering Student
 
 * Tampere, Finland
 * You can contact me at [Olli.Saarenmaa@Student.Lab.fi](mailto:Olli.Saarenmaa@Student.Lab.fi)
-* Focused on Software Development and Machine Learning
+* Focused on Software Development and Game Development
 * Vocational Degree in Electrical and Automation Technology
 * Languages: English, Finnish, Swedish
 
